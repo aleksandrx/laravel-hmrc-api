@@ -2,7 +2,7 @@
     "name": "aleksandrx/laravel-hmrc-api",
     "type": "library",
     "require": {
-        "darkside666/hmrc-api-php": "dev-develop"
+        "darkside666/hmrc-api-php": "*"
     },
     "require-dev": {
         "orchestra/testbench": "^3.7",
