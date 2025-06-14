@@ -1,12 +1,12 @@
 {
-    "name": "s-patompong/laravel-hmrc-api",
+    "name": "aleksandrx/laravel-hmrc-api",
     "type": "library",
     "require": {
-        "s-patompong/hmrc-api-php": "~1.0"
+        "darkside666/hmrc-api-php": "~1.0"
     },
     "require-dev": {
         "orchestra/testbench": "^3.7",
-        "phpunit/phpunit": "^7.5"
+        "phpunit/phpunit": "^9.5.25 || ^10.0 || ^11.0"
     },
     "license": "MIT",
     "authors": [
