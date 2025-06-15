@@ -1,6 +1,12 @@
 {
     "name": "aleksandrx/laravel-hmrc-api",
     "type": "library",
+        "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/aleksandrx/hmrc-api-php"
+        }
+    ],
     "require": {
         "aleksandrx/hmrc-api-php": "dev-master"
     },
